@@ -34,13 +34,13 @@ To Be Continued...
 
 # Week1
 
-[Docker 命令大全 | 菜鸟教程 (runoob.com)](https://www.runoob.com/docker/docker-command-manual.html)
+[Docker 命令大全](https://www.runoob.com/docker/docker-command-manual.html)
 
 [前言 - Docker — 从入门到实践 (gitbook.io)](https://yeasy.gitbook.io/docker_practice/)
 
 [Linux命令大全(手册) – 真正好用的Linux命令在线查询网站 (linuxcool.com)](https://www.linuxcool.com/)
 
-[正则表达式 – 语法 | 菜鸟教程 (runoob.com)](https://www.runoob.com/regexp/regexp-syntax.html)
+[正则表达式 – 语法](https://www.runoob.com/regexp/regexp-syntax.html)
 
 Human has ~3Gbp genome, but most of which are noncoding sequence.
 
